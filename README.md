@@ -1,4 +1,6 @@
-Fireball is a next-gen Html5 game editor built with extremely extendable structure. Fireball is currently using [Pixi.js](https://github.com/GoodBoyDigital/pixi.js/) and [Cocos2D-JS](https://github.com/cocos2d/cocos2d-html5) as game engine. We will be supporting more open sourced game engines in the future.
+Fireball is a next-gen Html5 game editor built with extremely extendable structure. 
+
+Fireball is currently using [Pixi.js](https://github.com/GoodBoyDigital/pixi.js/) and [Cocos2D-JS](https://github.com/cocos2d/cocos2d-html5) as game engine. We will be supporting more open sourced game engines in the future.
 
 ![Fireball Game Engine](https://cloud.githubusercontent.com/assets/344547/6882303/a8b7a740-d5ba-11e4-9518-e6494b1c94fa.png)
 
