@@ -1,6 +1,12 @@
-Fireball is a next-gen Html5 game engine built with extremely extendable structure. The core of Fireball is an editor UI engine and an asset engine with tree view, scene view and property inspector. Beyond that are all plugins. We designed Fireball to be deeply customizable. Developers can create their own editor and plugins very easily. The editor features are deeply inspired by [Unity](http://unity3d.com/) which we believe has the most advanced game developing editor at the moment.
+Fireball is a next-gen Html5 game editor built with extremely extendable structure. Fireball is currently using [Pixi.js](https://github.com/GoodBoyDigital/pixi.js/) and [Cocos2D-JS](https://github.com/cocos2d/cocos2d-html5) as game engine. We will be supporting more open sourced game engines in the future.
 
 ![Fireball Game Engine](https://cloud.githubusercontent.com/assets/344547/6882303/a8b7a740-d5ba-11e4-9518-e6494b1c94fa.png)
+
+## Introduction
+
+The core of Fireball is an editor UI framework and an asset engine with tree view, scene view and property inspector. Beyond that are all plugins or packages. We designed Fireball to be deeply customizable, even on the game engine side.
+
+Developers can create their own editor and plugins very easily. The editor features are deeply inspired by [Unity](http://unity3d.com/) which we believe has the most advanced game developing editor at the moment.
 
 The desktop version of Fireball is cross-platform powered by [Electron](https://github.com/fireball-x/electron). Currently we test our distribution on Mac and Windows 7/8.1. Issues on other platform are welcome!
 
