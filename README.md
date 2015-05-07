@@ -6,6 +6,8 @@ Fireball is currently using [Pixi.js](https://github.com/GoodBoyDigital/pixi.js/
 
 ## Introduction
 
+[![Join the chat at https://gitter.im/fireball-x/fireball](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fireball-x/fireball?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The core of Fireball is an editor UI framework and an asset engine with tree view, scene view and property inspector. Beyond that are all plugins or packages. We designed Fireball to be deeply customizable, even on the game engine side.
 
 Developers can create their own editor and plugins very easily. The editor features are deeply inspired by [Unity](http://unity3d.com/) which we believe has the most advanced game developing editor at the moment.
